@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OGdMgYAFlvVG0ytEwYT4Xg==
+SHA1-Digest: +lqdPfZU1zVUWgapVaCbneCo5hQ=
+
+Name: icons/citethis.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: d0kfalDtLglFFTgJ4jNHEw==
+SHA1-Digest: Oz4qsaCF1tQECpB1gJaK6/Sb+b8=
+
+Name: sidebar/citethis.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9fahxhXYJwGXlLAateKJIA==
+SHA1-Digest: 9JB9lCfgf3PRyZKkdKI1GUs3LW0=
+
+Name: sidebar/extractFields.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sjksFw3915O7pcjf5tHEyA==
+SHA1-Digest: yQ4Mr97tbL76L8KsyheuUNsiDkQ=
+
+Name: sidebar/panel.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8yAUGOoY6VZiZ0EE+DAE3Q==
+SHA1-Digest: QoxISepqjOrXcpIgXSAV8/So/f0=
+
+Name: sidebar/panel.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IsoQLa8T2A/R0HPSc62c7Q==
+SHA1-Digest: 8eR9EXCo+2FNVoapKhXp9fVOBaM=
+
